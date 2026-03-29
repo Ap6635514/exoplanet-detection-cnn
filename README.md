@@ -35,7 +35,7 @@ The model analyzes brightness variations in stars and detects dips caused by pla
 ---
 
 ## 📸 Output
-![alt text](Screenshot_2026-03-21_17-23-37.png)
+![output](Screenshot_2026-03-21_17-23-37.png)
 
 
 ---
