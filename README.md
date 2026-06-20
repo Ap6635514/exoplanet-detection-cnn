@@ -99,14 +99,6 @@ Performance may vary on real astronomical datasets.
 
 ---
 
-## 🔮 Future Improvements
-- Use NASA Kepler / TESS datasets
-- Improve model using LSTM / Hybrid models
-- Increase dataset size
-- Apply noise reduction techniques
-
----
-
 ## 🚀 Why This Project Matters
 Exoplanet discovery is one of the most exciting areas in astronomy.  
 Automating detection with AI can significantly accelerate discoveries.
